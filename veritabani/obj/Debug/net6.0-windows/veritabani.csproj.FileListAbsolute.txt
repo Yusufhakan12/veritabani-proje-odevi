@@ -1,0 +1,141 @@
+C:\Users\yusuf\source\repos\veritabani\veritabani\bin\Debug\net6.0-windows\veritabani.exe
+C:\Users\yusuf\source\repos\veritabani\veritabani\bin\Debug\net6.0-windows\veritabani.deps.json
+C:\Users\yusuf\source\repos\veritabani\veritabani\bin\Debug\net6.0-windows\veritabani.runtimeconfig.json
+C:\Users\yusuf\source\repos\veritabani\veritabani\bin\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\source\repos\veritabani\veritabani\bin\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkle.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.Form1.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\refint\veritabani.dll
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\ref\veritabani.dll
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.hastaEkle.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorCikar.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorGuncelle.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.HastaCikar.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.HastaGuncelle.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelCikar.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelEkle.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelGuncelle.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelSistem.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.RandevuOlustur.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.Sekreter.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.HastaSistem.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuf\source\repos\veritabani\veritabani\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkran.resources
+C:\Users\yusuf\source\repos\veritabani\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.exe
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorCikar.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkran.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorGuncelle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaCikar.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.hastaEkle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaGuncelle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaSistem.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelCikar.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelEkle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelGuncelle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelSistem.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.RandevuOlustur.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Sekreter.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\refint\veritabani.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2\veritabani\obj\Debug\net6.0-windows\ref\veritabani.dll
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.exe
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.deps.json
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.runtimeconfig.json
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.AssemblyReference.cache
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorCikar.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkle.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkran.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorGuncelle.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Form1.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaCikar.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.hastaEkle.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaGuncelle.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaSistem.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelCikar.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelEkle.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelGuncelle.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelSistem.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.RandevuOlustur.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Sekreter.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.GenerateResource.cache
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfoInputs.cache
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfo.cs
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CopyComplete
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\refint\veritabani.dll
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.genruntimeconfig.cache
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\ref\veritabani.dll
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Anasayfa.resources
+C:\Users\yusuf\Downloads\veritabaniodev (1)\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.CalisanSecmeEkrani.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.exe
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\bin\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Anasayfa.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.CalisanSecmeEkrani.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorCikar.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorEkran.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.DoktorGuncelle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaCikar.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.hastaEkle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaGuncelle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.HastaSistem.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelCikar.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelEkle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelGuncelle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.PersonelSistem.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.RandevuOlustur.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Sekreter.resources
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\refint\veritabani.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\ref\veritabani.dll
+C:\Users\yusuf\OneDrive\Masaüstü\veritabani_2_2\veritabani_2\veritabani\obj\Debug\net6.0-windows\veritabani.Properties.Resources.resources

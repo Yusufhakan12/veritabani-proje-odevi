@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RIrqFuLhz1upvjDZ4EyjmEAvPr0/Mw095vp1GbYAZ3zQNhqaPBBaMeJpe5bCvp1ZfIETexS8gKkCgy9r3toIVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\veritabani_2_2\\veritabani_2\\veritabani\\veritabani.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
